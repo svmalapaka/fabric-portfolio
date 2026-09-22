@@ -15,7 +15,7 @@ Each project covers a real-world data engineering or analytics scenario.
 | 6 | External API Integration | Data Factory, Lakehouse | ✅ Complete |
 | 7 | Data Governance & Lineage | Purview, OneLake | ✅ Complete |
 | 8 | Data Activator Alerts | Activator, Real-Time Dashboard | 🔜 In Progress |
-| 9 | Direct Lake Mode + Power BI | Semantic Model, Direct Lake | 🔜 Planned |
+| 9 | Direct Lake Mode + Power BI | Semantic Model, Direct Lake | 🟡 In Progress |
 | 10 | Full Platform CI/CD Pipeline | Git Integration, Deployment Pipelines | 🔜 Planned |
 
 ## 🗓️ Timeline
